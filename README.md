@@ -2,7 +2,7 @@
 
 Ferramenta automatizada para execução de Google Dorks com foco em pentest e reconhecimento de ativos.
 
-## 🔧 Funcionalidades
+##  Funcionalidades
 
 - Execução automatizada de múltiplos dorks simultaneamente
 - Rotação de User-Agents para evitar bloqueios
@@ -11,7 +11,7 @@ Ferramenta automatizada para execução de Google Dorks com foco em pentest e re
 - Log estruturado com timestamp para auditoria
 - Filtragem de resultados por domínio alvo
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - Bash Scripting (controle de fluxo e lógica principal)
 - cURL (requisições HTTP)
@@ -19,7 +19,7 @@ Ferramenta automatizada para execução de Google Dorks com foco em pentest e re
 - Python3 (URL encoding)
 - GNU grep (filtragem de resultados)
 
-## 📌 Como Usar
+##  Como Usar
 
 ```bash
 chmod +x dork.sh
